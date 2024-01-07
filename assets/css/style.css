@@ -208,7 +208,7 @@ a {
 }
 
 .hero-cta {
-  min-width: 180px;
+  width: 180px;
   line-height: 64px;
   background: var(--primary-color);
 }
